@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "dev.sxmurxy.customhitboxes.mixins",
+	"compatibilityLevel": "JAVA_8",
+	"mixins":[
+	"MixinEntityRenderer"
+	],
+	"injectors": {
+		"defaultRequire" : 1
+	},
+	"refmap": "customhitboxes.mixin-refmap.json"
+}
