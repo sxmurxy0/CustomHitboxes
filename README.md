@@ -8,7 +8,8 @@ Also you can change hitbox color of:
 - **Throwables**
 - **Dropped items**<br/>
 
-***Works with OptiFine.***<br/>
+**To open interface, use the right-control key(default) or change it in the control settings.**<br/>
+**Works with OptiFine.**<br/>
 <br/>
 ![GUI](https://user-images.githubusercontent.com/46312126/191856125-38749edd-df2d-45d1-86f3-4dd64cc0e115.png)
 ![INGAME](https://user-images.githubusercontent.com/46312126/191962299-12e9a2a3-0343-4ec8-bcf7-62d67924432a.png)
