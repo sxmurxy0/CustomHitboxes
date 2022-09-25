@@ -1,4 +1,4 @@
-# CustomHitboxes 1.16.x Forge
+# CustomHitboxes 1.16.5 Forge
 The mod for MinecrafForge to customize entities hitboxes with a simple GUI.<br/>
 You can turn on or off the render of the eye hitbox and viewing line.<br/>
 Also you can change hitbox color of:
