@@ -2,7 +2,7 @@
 The mod for MinecrafForge to customize entities hitboxes with a simple GUI.<br/>
 You can turn on or off the render of the eye hitbox and viewing line.<br/>
 Also you can change hitbox color of:
-- **Playes**
+- **Players**
 - **Animals**
 - **Monsters**
 - **Throwables**
